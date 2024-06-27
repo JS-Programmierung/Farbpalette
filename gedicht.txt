@@ -3,6 +3,7 @@ Farbpalette
 Rot
 Hellgrün
 Dunkelgrün
+Türkies
 Blau
 Cyan
 Magenta
